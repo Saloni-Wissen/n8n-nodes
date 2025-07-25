@@ -1,0 +1,4 @@
+{
+  "node": "dist/nodes/Browser-User-Api/BrowserUse.node.js",
+  "nodeClass": "BrowserUse"
+}

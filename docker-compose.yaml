@@ -15,7 +15,7 @@ services:
       - "5432:5432"
 
   n8n:
-    image: n8n-custom:v1
+    image: salonigupta19/n8n-custom:v1
     container_name: n8n-local
     restart: always
     env_file:
